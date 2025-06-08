@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-santhosh" alt="sai-santhosh" /></a> </p>
 
-- 🔭 I’m currently working on [EzSplit](https://huggingface.co/spaces/santu24/EzSplit)
+- 🔭 I’m currently Pursuing master's in Computer Science at Georgia State University 
 
 - 🌱 I’m currently learning **MLOps, Retrieval-Augmented-Generation (RAG), Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://huggingface.co/santu24](https://huggingface.co/santu24)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing**
 
-- 📫 How to reach me **saisanthoshvc@rice.edu**
+- 📫 How to reach me **asishkarthikeya45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
