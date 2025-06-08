@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asish Karthikeya Goginenu</h1>
 <h3 align="center">A passionate Graduate Student, Data Enthusiast from USA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="sai-santhosh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsishKarthikeya&label=Profile%20views&color=0e75b6&style=flat" alt="Asish Karthikeya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-santhosh" alt="sai-santhosh" /></a> </p>
 
