@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Santhosh V C</h1>
-<h3 align="center">A passionate Student, Data Enthusiast from USA</h3>
+<h1 align="center">Hi 👋, I'm Asish Karthikeya Goginenu</h1>
+<h3 align="center">A passionate Graduate Student, Data Enthusiast from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="sai-santhosh" /> </p>
 
