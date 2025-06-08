@@ -17,8 +17,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/asish-karthikeya-gogineni-0bb301239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asish-karthikeya-gogineni-0bb301239/" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=1LDy9ooAAAAJ&hl=en&authuser=2" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Scholar" height="30" width="40" />
-  </a>
+  <img align="center" src="https://i.imgur.com/2eJlE5M.png" alt="Google Scholar" height="30" />
+</a>
+
 <a href="https://instagram.com/asishkarthikeya_gogineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AsishKarthikeya" height="30" width="40" /></a>
 
 
